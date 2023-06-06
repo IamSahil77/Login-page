@@ -24,7 +24,7 @@ That's it! You should now see the login page in your web browser.
 
 - **Username:** Enter your username or email address in this field.
 - **Password:** Enter your password in this field. You can toggle the visibility of the password by clicking on the eye icon.
-- **Login Button:** Click on this button to initiate the login process.
+- **Login Button:** Click on this button to initiate the login process. The button has a hover effect that enhances the user experience.
 
 Please note that this login page does not have any backend functionality. It is meant to demonstrate the frontend design and provide a starting point for integrating with backend systems.
 
